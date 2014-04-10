@@ -13,7 +13,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.6",
         "behat/behat": "~2.4",
         "symfony/config": "~2.0",
         "symfony/dependency-injection": "~2.0"
